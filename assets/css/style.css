@@ -585,5 +585,18 @@
 }
 
 .curso__title{
-	color:red;
+	color:black;
+}
+.cursos__grid{
+	display: grid;
+	/* justify-items: center; */
+	grid-template-columns: 1fr 20% 1fr 20% 1fr;
+	grid-template-rows: 20% 20% 20% 20% 20%;
+	grid-gap: 20px 20px;
+	border-style: solid;
+}
+.curso__container{
+	border-radius: 10px;
+	padding: 20px; 
+	border: 1px solid black
 }

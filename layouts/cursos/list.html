@@ -1,21 +1,26 @@
 {{ define "main" }}
 <main >
     <section>
+        {{partial "sidebar.html"}}
+    </section>
+    <section>
         <h1 class="section__title">Catálogo de cursos</h1>
-        {{ $items := (where $.Site.RegularPages "Type" "cursos") }}
-        {{ $len := (len $items) }}
-        
-        {{ range $i, $e := $items }}
-        {{ partial "curso.html" .}}
-        
-        {{ if ne (add $i 1) $len }}
-        
-        {{ if $.Site.Params.separator.show }}
-        {{ partial "separator.html" . }}
-        {{ end  }}
-    
-        {{ end }}
-        {{ end}}
+        <div class="cursos__grid">
+            {{ $items := (where $.Site.RegularPages "Type" "cursos") }}
+            {{ $len := (len $items) }}
+            
+            {{ range $i, $e := $items }}
+            {{ partial "curso.html" .}}
+            
+            {{ if ne (add $i 1) $len }}
+            
+            {{/*  {{ if $.Site.Params.separator.show }}
+            {{ partial "separator.html" . }}
+            {{ end  }}
+          */}}
+            {{ end }}
+            {{ end}}
+        </div>
     </section>
 </main>
 {{ end }}

@@ -1,6 +1,8 @@
-<section class="section">
-    <h1 >{{ .Params.asignatura}}</h1>
-    <div class="section__content">
-        {{ .Content }}
-    </div>
-</section>
+<div class="curso__container">
+    <h1 class="card__header__title">
+        <a href="#" class="card__header_link">{{ .Params.asignatura}}</a>
+    </h1>
+    <h3 class="curso__title card__header__date date">Responsable: {{ .Params.responsable}}</h1>
+    <h3 class="curso__title card__header__date date">Créditos: {{ .Params.créditos}}</h1>
+    <h3 class="curso__title card__header__date date">Horas: {{ .Params.horas}}</h1>
+</div>
