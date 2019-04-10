@@ -583,3 +583,7 @@
 	transform: scale(0, 0);
 	transition: 0s;
 }
+
+.curso__title{
+	color:red;
+}

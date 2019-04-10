@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main >
+    <section>
+        <h1 class="section__title">Catálogo de cursos</h1>
+        {{ $items := (where $.Site.RegularPages "Type" "cursos") }}
+        {{ $len := (len $items) }}
+        
+        {{ range $i, $e := $items }}
+        {{ partial "curso.html" .}}
+        
+        {{ if ne (add $i 1) $len }}
+        
+        {{ if $.Site.Params.separator.show }}
+        {{ partial "separator.html" . }}
+        {{ end  }}
+    
+        {{ end }}
+        {{ end}}
+    </section>
+</main>
+{{ end }}
+
