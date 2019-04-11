@@ -1,29 +1,17 @@
 {{ define "main" }}
 <main >
     <section>
-        <h1 class="section__title">Catálogo de cursos</h1>
-        <div class="cursos__container">
-            <div class="curso__container">
-                {{partial "sidebar.html"}}
-            </div>
-            <div class="cursos__grid curso__container">
-                {{ $items := (where $.Site.RegularPages "Type" "cursos") }}
-                {{ $len := (len $items) }}
-                
-                {{ range $i, $e := $items }}
-                {{ partial "curso.html" .}}
-                
-                {{ if ne (add $i 1) $len }}
-                
-                {{/*  {{ if $.Site.Params.separator.show }}
-                {{ partial "separator.html" . }}
-                {{ end  }}
-            */}}
-                {{ end }}
-                {{ end}}
-            </div>
+        <h1 class="section__title"> Catálogo de cursos</h1>
+        <div class="cursos__grid curso__container">
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "cursos") }}
+            {{ range $paginator.Pages }}
+            {{ partial "curso.html" .}}
+            {{ end }}
+            <!-- Hugo's default pagination template. -->
         </div>
-        
+        <section class="paginator">
+            {{ template "_internal/pagination.html" . }}
+        </section>
     </section>
 </main>
 {{ end }}

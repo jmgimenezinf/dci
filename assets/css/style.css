@@ -613,3 +613,13 @@
 	border: 1px solid black
 }
 
+.paginator{
+	display: block;
+	margin: 0 auto;
+}
+
+.paginator:nth-child(1){
+	display: block;
+	margin: 0 auto;
+	width: 1%;
+}

@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Doctorado en ciencias de la ingeniería"
 theme = "terrassa"
 
-
 [outputs]
     home = ["HTML", "RSS"]
     page = ["HTML", "RSS"]
@@ -102,3 +101,4 @@ theme = "terrassa"
   Name = "Hugo"
   URL = "/categories/hugo/"
   weight = 1
+
