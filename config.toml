@@ -93,4 +93,12 @@ theme = "terrassa"
     [privacy.youtube]
         disable = false
         privacyEnhanced = true
+[[menu.sidebar]]
+  Name = "Google"
+  URL = "https://www.google.com"
+  weight = 0
 
+[[menu.sidebar]]
+  Name = "Hugo"
+  URL = "/categories/hugo/"
+  weight = 1
