@@ -1,8 +1,8 @@
 {{ define "main" }}
-<main >
+<main class="cursos">
     <section>
         <h1 class="section__title"> Catálogo de cursos</h1>
-        <div class="cursos__grid curso__container">
+        <div class="cursos__grid">
             {{ $paginator := .Paginate (where .Data.Pages "Type" "cursos") }}
             {{ range $paginator.Pages }}
             {{ partial "curso.html" .}}

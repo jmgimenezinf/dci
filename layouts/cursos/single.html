@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="post">
+    <header class="post__header">
+        <h1 class="post__title">{{ .Params.responsable}}</h1>
+    </header>
+
+    {{ if ne .Type "page" }}
+    <main class="post__body">
+        {{ .Content }}
+    </main>
+    {{ else }}
+    <main class="post__body" style="margin-bottom: 3rem;">
+        {{ .Content }}
+    </main>
+    {{ end }}
+
+    {{ if ne .Type "page" }}
+    <footer class="post__footer">
+        {{ .Render "tags" }}
+    </footer>
+    {{ end }}
+</article>
+{{ end }}
