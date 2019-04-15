@@ -630,3 +630,8 @@
 	justify-content: flex-start;
 	min-height: 90vh;
 }
+
+blockquote{
+	color: #24292e;
+	background: #f6f8fa;
+}
