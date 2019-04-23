@@ -1,7 +1,7 @@
 ---
 title: "Inicio"
 description: ""
-images: ["/dci.png"]
+images: ["dci.png"]
 draft: false
 menu: main
 weight: 1

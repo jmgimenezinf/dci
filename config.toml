@@ -1,4 +1,4 @@
-baseURL = "http://www.dinfo.ing.unp.edu.ar/sitios/dci"
+baseURL = "http://www.dinfo.ing.unp.edu.ar/sitios/dci/"
 languageCode = "en-us"
 title = "Doctorado en ciencias de la ingeniería"
 theme = "terrassa"
