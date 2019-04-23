@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doctorado en ciencias de la ingeniería</title>
+    <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/cursos/cursoa.9/</link>
+    <description>Recent content on Doctorado en ciencias de la ingeniería</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.dinfo.ing.unp.edu.ar/sitios/dci/cursos/cursoa.9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

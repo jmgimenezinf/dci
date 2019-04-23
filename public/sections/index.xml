@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Doctorado en ciencias de la ingeniería</title>
+    <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/sections/</link>
+    <description>Recent content in Sections on Doctorado en ciencias de la ingeniería</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.dinfo.ing.unp.edu.ar/sitios/dci/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inicio</title>
+      <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/sections/inicio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.dinfo.ing.unp.edu.ar/sitios/dci/sections/inicio/</guid>
+      <description>Denominación de la carrera: Doctorado en Ciencias de la Ingeniería (DCI)
+Título a expedir: Doctor en Ciencias de la Ingeniería
+Nivel de la titulación: Posgrado
+Ubicación en la estructura institucional: Facultad de Ingeniería-UNPSJB
+Modalidad: presencial
+Tipo de carrera: semiestructurada
+El DCI requiere de una serie de elementos interrelacionados que aseguren la generación de contribuciones relevantes a la sociedad, a través de sus participantes. Para ello es necesario contar con un plan de estudios pertinente, suficiente y de calidad que forme nuevos investigadores, con una planta académica altamente capacitada en sus áreas de conocimiento, y en el desarrollo de nuevas tecnologías, así como en el compromiso de involucrarse en efectivos e innovadores medios de educación, atención y formación del alumnado.</description>
+    </item>
+    
+  </channel>
+</rss>
