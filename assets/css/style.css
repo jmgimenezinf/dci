@@ -609,6 +609,13 @@
 	padding: 20px; 
 	border: 1px solid black
 }
+.cursos{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	min-height: 90vh;
+}
 
 .paginator{
 	display: block;
@@ -622,15 +629,94 @@
 	left: 50%;
 	text-align: center;
 }
-.cursos{
-	align-items: center;
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
-	min-height: 90vh;
-}
 
 blockquote{
 	color: #24292e;
 	background: #f6f8fa;
+}
+
+@media (min-width: 0px) and (max-width: 767px) {
+	.cursos__grid{
+		padding-left: 20%;
+		padding-right: 20%;
+		display: grid;
+		grid-template-columns: 100%;
+		grid-template-rows: auto;
+		grid-gap: 10px 10px;
+		border-style: solid;
+	}
+	.curso__container{
+		padding: 20px; 
+		border: 2px solid #bdbdbd
+	}
+	.cursos__container{
+		display: grid;
+		grid-template-columns: 20% 85%;
+		grid-template-rows: 40vw ;
+		grid-gap: 2px 2px;
+		border-radius: 10px;
+		padding: 20px; 
+		border: 1px solid black
+	}
+	section {
+		margin: 0;
+		text-justify: distribute;
+	}
+}
+
+@media (min-width:768px) and (max-width: 991px) {
+	.cursos__grid{
+		padding-left: 20%;
+		padding-right: 20%;
+		display: grid;
+		grid-template-columns: 50% 50%;
+		grid-template-rows: auto;
+		grid-gap: 10px 10px;
+		border-style: solid;
+	}
+	.curso__container{
+		padding: 20px; 
+		border: 2px solid #bdbdbd
+	}
+	.cursos__container{
+		display: grid;
+		grid-template-columns: 20% 85%;
+		grid-template-rows: 40vw ;
+		grid-gap: 2px 2px;
+		border-radius: 10px;
+		padding: 20px; 
+		border: 1px solid black
+	}
+	section {
+		margin: 0;
+		text-justify: distribute;
+	}
+}
+@media (min-width:992px) and (max-width: 1600px) {
+	.cursos__grid{
+		padding-left: 20%;
+		padding-right: 20%;
+		display: grid;
+		grid-template-columns: 25% 25% 25% 25%;
+		grid-template-rows: auto;
+		grid-gap: 10px 10px;
+		border-style: solid;
+	}
+	.curso__container{
+		padding: 20px; 
+		border: 2px solid #bdbdbd
+	}
+	.cursos__container{
+		display: grid;
+		grid-template-columns: 20% 85%;
+		grid-template-rows: 40vw ;
+		grid-gap: 2px 2px;
+		border-radius: 10px;
+		padding: 20px; 
+		border: 1px solid black
+	}
+	section {
+		margin: 0;
+		text-justify: distribute;
+	}
 }
