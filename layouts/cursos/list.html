@@ -2,8 +2,11 @@
 <main class="cursos">
     <section>
         <h1 class="section__title"> Catálogo de cursos</h1>
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "cursos") }}
+        <section class="paginator">
+                {{ template "_internal/pagination.html" . }}
+        </section>
         <div class="cursos__grid">
-            {{ $paginator := .Paginate (where .Data.Pages "Type" "cursos") }}
             {{ range $paginator.Pages }}
             {{ partial "curso.html" .}}
             {{ end }}
