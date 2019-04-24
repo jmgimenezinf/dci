@@ -1,15 +1,15 @@
 ---
-title: "How game websites can help you live a better life"
+title: "Nuevo sitio del doctorado en ciencias de la ingeniería"
 description: "The 6 best dish review twitter feeds to follow."
-date: 2018-12-19T22:32:19+01:00
+date: 2018-04-24T12:26:00+01:00
 publishDate: 2018-12-19T22:21:42+01:00
-author: "John Doe"
+author: "Juan Martín Gimenez"
 images: []
 draft: false
-tags: ["health", "cooking"]
+tags: ["developer", "new site"]
 ---
 
-[How to cheat at dish reviews and get away with it](#). The 6 best dish review twitter feeds to follow. The best ways to utilize minute meals. The best ways to utilize safe food handling tips. The best ways to utilize safe food handling tips. 17 facts about food processors that will impress your friends. How cooking healthy food is making the world a better place. Why you'll never succeed at healthy eating facts. 16 things you don't want to hear about chefs. 9 uses for mexican food.
+[How to cheat at dish reviews and get away with it](#). The 6 best dish review twitter feeds to follow. The best ways to utilize minute meals. The best ways to utilize safe food handling tips. The best ways to utilize safe fanood handling tips. 17 facts about food processors that will impress your friends. How cooking healthy food is making the world a better place. Why you'll never succeed at healthy eating facts. 16 things you don't want to hear about chefs. 9 uses for mexican food.
 
 ![Dummy image.](./images/dummy-image.jpg)
 

@@ -46,16 +46,6 @@
   </url>
   
   <url>
-    <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/posts/16-things-free-songs/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/posts/bad-architects/</loc>
-    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/posts/preventative-medicines/</loc>
     <lastmod>2018-12-07T22:30:56+01:00</lastmod>
   </url>
@@ -301,12 +291,6 @@
   </url>
   
   <url>
-    <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/architecture/</loc>
-    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/categories/</loc>
     <priority>0</priority>
   </url>
@@ -314,12 +298,6 @@
   <url>
     <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/cooking/</loc>
     <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/free/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -340,25 +318,13 @@
   </url>
   
   <url>
-    <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/music/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/sections/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/songs/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/</loc>
-    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
+    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   

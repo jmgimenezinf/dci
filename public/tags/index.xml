@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Doctorado en ciencias de la ingeniería</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Dec 2018 22:34:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 22:32:19 +0100</lastBuildDate>
     
 	<atom:link href="http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Architecture</title>
-      <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/architecture/</link>
-      <pubDate>Sun, 16 Dec 2018 22:34:04 +0100</pubDate>
-      
-      <guid>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/architecture/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Cooking</title>
@@ -26,15 +17,6 @@
       <pubDate>Wed, 19 Dec 2018 22:32:19 +0100</pubDate>
       
       <guid>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/cooking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Free</title>
-      <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/free/</link>
-      <pubDate>Mon, 17 Dec 2018 22:21:42 +0100</pubDate>
-      
-      <guid>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/free/</guid>
       <description></description>
     </item>
     
@@ -53,24 +35,6 @@
       <pubDate>Fri, 07 Dec 2018 22:30:56 +0100</pubDate>
       
       <guid>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/music/</link>
-      <pubDate>Mon, 17 Dec 2018 22:21:42 +0100</pubDate>
-      
-      <guid>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Songs</title>
-      <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/songs/</link>
-      <pubDate>Mon, 17 Dec 2018 22:21:42 +0100</pubDate>
-      
-      <guid>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/songs/</guid>
       <description></description>
     </item>
     
