@@ -3,7 +3,9 @@
     <header class="post__header">
         <h1 class="post__title">{{ .Params.asignatura}}</h1>
     </header>
-
+    {{if not .Content}}
+        <img src='{{ $.Site.BaseURL }}{{$.Site.Params.ups.img}}'/> 
+    {{end}}
     {{ if ne .Type "page" }}
     <main class="post__body">
         {{ .Content }}

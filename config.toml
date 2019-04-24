@@ -12,6 +12,9 @@ theme = "terrassa"
     favicon = "favicon.ico" # Relative URL
     logo = "logo.svg" # Absolute URL
 
+[params.ups]
+    img = "ups.jpg"
+
 [params.hero]
     textColor = "" # Empty for default color
 
