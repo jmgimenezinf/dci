@@ -7,17 +7,17 @@ weight: 1
 
 
 
-Denominación de la carrera: Doctorado en Ciencias de la Ingeniería (DCI)
+**Denominación de la carrera:** Doctorado en Ciencias de la Ingeniería (DCI)
 
-Título a expedir: Doctor en Ciencias de la Ingeniería
+**Título a expedir:** Doctor en Ciencias de la Ingeniería
 
-Nivel de la titulación: Posgrado
+**Nivel de la titulación:** Posgrado
 
-Ubicación en la estructura institucional: Facultad de Ingeniería-UNPSJB
+**Ubicación en la estructura institucional:** Facultad de Ingeniería-UNPSJB
 
-Modalidad: presencial
+**Modalidad:** presencial
 
-Tipo de carrera: semiestructurada
+**Tipo de carrera:** semiestructurada
 
 El DCI requiere de una serie de elementos interrelacionados que aseguren la generación de contribuciones relevantes a la sociedad, a través de sus participantes. Para ello es necesario contar con un plan de estudios pertinente, suficiente y de calidad que forme nuevos investigadores, con una planta académica altamente capacitada en sus áreas de conocimiento, y en el desarrollo de nuevas tecnologías, así como en el compromiso de involucrarse en efectivos e innovadores medios de educación, atención y formación del alumnado. De igual forma la institución apoya al programa mediante infraestructura adecuada y suficiente para cultivar este proceso de generación, y promueve la obtención de recursos económicos suficientes para llegar a esta meta.
 

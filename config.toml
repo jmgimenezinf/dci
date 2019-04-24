@@ -8,9 +8,9 @@ theme = "terrassa"
     page = ["HTML", "RSS"]
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+    description = "Doctorado en ciencias de la ingeniería"
     favicon = "favicon.ico" # Relative URL
-    logo = "" # Absolute URL
+    logo = "logo.svg" # Absolute URL
 
 [params.hero]
     textColor = "" # Empty for default color
@@ -28,16 +28,16 @@ theme = "terrassa"
     integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
-    netlify = true # Use only if you are using Netlify
-    action = "https://formspree.io/your@email.com"
+    netlify = false # Use only if you are using Netlify
+    action = "https://formspree.io/jm.gimenez.inf@gmail.com"
     method = "POST"
-    inputNameName = "name"
+    inputNameName = "Nombre"
     inputNameLabel = "Nombre"
     inputNamePlaceholder = "nombre"
     inputEmailName = "email"
     inputEmailLabel = "Email"
     inputEmailPlaceholder = "email"
-    inputMsgName = "message"
+    inputMsgName = "Mensaje"
     inputMsgLabel = "Mensaje"
     inputMsgLength = 750
     inputSubmitValue = "Enviar"
