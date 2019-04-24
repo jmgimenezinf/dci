@@ -32,7 +32,7 @@ theme = "terrassa"
 
 [params.form] # Contact form
     netlify = false # Use only if you are using Netlify
-    action = "https://formspree.io/jm.gimenez.inf@gmail.com"
+    action = "https://formspree.io/dci.fi.unpsjb@gmail.com"
     method = "POST"
     inputNameName = "Nombre"
     inputNameLabel = "Nombre"
