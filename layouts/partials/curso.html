@@ -1,6 +1,7 @@
 <div class="curso__container">
+    <h3 class="curso__title card__header__date date">Código: {{ .Params.código}}</h1>
     <h3 class="card__header__title">
-        <a href="{{ .Permalink }}"  class="card__header_link" alt="{{ .Params.asignatura}}.">{{ .Params.asignatura}}</a>
+        <a href="{{ .Permalink }}"  class="card__header_link" alt="{{ .Params.asignatura}}.">{{ .Params.asignatura | truncate 60}}</a>
     </h3>
     <h3 class="curso__title card__header__date date">Responsable: {{ .Params.responsable}}</h1>
     <h3 class="curso__title card__header__date date">Créditos: {{ .Params.créditos}}</h1>
