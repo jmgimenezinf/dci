@@ -620,7 +620,13 @@
 	justify-content: flex-start;
 	min-height: 90vh;
 }
-
+.plan-estudios{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	min-height: 90vh;
+}
 .paginator{
 	display: block;
 	margin: 0 auto;
