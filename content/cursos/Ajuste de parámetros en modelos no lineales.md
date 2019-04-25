@@ -16,11 +16,21 @@ estos son los contenidos del cursos
 |--|--|
 |F1|F4|
 
- - [ ] 
- - [ ] List item
+ - [ ] item uno 
+ - [ ] item dos
+## Heading
+~~
+ - 
 
+> `asdasd
+|ll|  |
+|--|--|
+|  |  |
+`
+
+~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDgyNjA0OSwtMTg1NzIyNjc1LC04ND
-g4NDcyOCwxODcwMDAzOTgsMTYzNDM1MDQ1Miw2NTU1MTYyNjFd
-fQ==
+eyJoaXN0b3J5IjpbMjU3OTQ3NDk5LC0xODU3MjI2NzUsLTg0OD
+g0NzI4LDE4NzAwMDM5OCwxNjM0MzUwNDUyLDY1NTUxNjI2MV19
+
 -->
