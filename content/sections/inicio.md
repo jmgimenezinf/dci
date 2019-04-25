@@ -33,3 +33,7 @@ Desarrollo de tecnologías para la industria Forestal, orientadas a la producci�
 Desarrollo de Tecnologías vinculadas a las telecomunicaciones, datos.
 Desarrollo de Tecnologías de la Información y la comunicación.
 Desarrollo de Tecnologías aplicadas al campo de la minería en todos sus aspectos.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAxMzQ5OTEwN119
+-->
