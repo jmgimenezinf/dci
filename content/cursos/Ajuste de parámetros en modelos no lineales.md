@@ -4,6 +4,7 @@
    responsable: "Dr. A. Blasetti"
    créditos: "4"
    horas: "40"
+==== BASE ====
 ---
 # Hola
 estos son los contenidos del cursos
