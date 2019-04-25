@@ -3,8 +3,8 @@
    asignatura: "Control por pasividad"
    responsable: "Dr. D. Fernandez"
    créditos: "8"
-   horas: "840"
+   horas: "80"
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzA1OTkwMl19
+eyJoaXN0b3J5IjpbMjA4OTU3NjEyMF19
 -->
