@@ -3,8 +3,8 @@
    asignatura: "Ingeniería de Sistemas Ciber-Físicos"
    responsable: "Dr. L. Ordinez"
    créditos: "8"
-   horas: "840"
+   horas: "80"
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5Mzk5OTcwXX0=
+eyJoaXN0b3J5IjpbLTIwOTk4NjUxMzJdfQ==
 -->
