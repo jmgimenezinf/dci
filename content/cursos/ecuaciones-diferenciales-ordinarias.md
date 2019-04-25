@@ -3,8 +3,8 @@
    asignatura: "Ecuaciones Diferenciales Ordinarias: introducción a los sistemas dinámicos"
    responsable: "Dr. G. Soto"
    créditos: "6"
-   horas: "640"
+   horas: "60"
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNzM1NzcwXX0=
+eyJoaXN0b3J5IjpbOTM1NjM4NjIwXX0=
 -->
