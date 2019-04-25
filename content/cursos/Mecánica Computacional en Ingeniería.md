@@ -3,8 +3,8 @@
    asignatura: "Mecánica Computacional en Ingeniería"
    responsable: "Dr. D. Manzanal"
    créditos: "5"
-   horas: "540"
+   horas: "50"
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODEyMjU1NTRdfQ==
+eyJoaXN0b3J5IjpbLTI0NjAyOTExMl19
 -->
