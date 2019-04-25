@@ -3,8 +3,8 @@
    asignatura: "Tópicos avanzados de Base de Datos"
    responsable: "Dr. M. Falappa"
    créditos: "9"
-   horas: "940"
+   horas: "90"
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDg2NTYyNF19
+eyJoaXN0b3J5IjpbOTkyMjIzNDU0XX0=
 -->
