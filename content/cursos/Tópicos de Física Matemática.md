@@ -3,5 +3,5 @@
    asignatura: "Tópicos de Física Matemática"
    responsable: "Dr. H. Montani"
    créditos: "5"
-   horas: "40"
+   horas: "50"
 ---

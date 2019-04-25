@@ -3,5 +3,5 @@
    asignatura: "Mecánica de Fluidos avanzada"
    responsable: "Dra. L. Quinzani"
    créditos: "9"
-   horas: "40"
+   horas: "90"
 ---

@@ -3,5 +3,5 @@
    asignatura: "Reactores Químicos "
    responsable: "Dr. B. Cañete"
    créditos: "8"
-   horas: "40"
+   horas: "80"
 ---

@@ -3,5 +3,5 @@
    asignatura: "Sistemas dinámicos lineales"
    responsable: "Dr. H. De Batista"
    créditos: "7"
-   horas: "40"
+   horas: "70"
 ---

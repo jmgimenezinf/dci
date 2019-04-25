@@ -3,5 +3,5 @@
    asignatura: "Reactores Biológicos "
    responsable: "Dr. B. Cañete"
    créditos: "9"
-   horas: "40"
+   horas: "90"
 ---

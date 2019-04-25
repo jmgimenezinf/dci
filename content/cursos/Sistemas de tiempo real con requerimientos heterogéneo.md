@@ -3,5 +3,5 @@
    asignatura: "Sistemas de tiempo real con requerimientos heterogéneo"
    responsable: "Dr. J. Urriza"
    créditos: "10"
-   horas: "40"
+   horas: "100"
 ---

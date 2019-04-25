@@ -3,5 +3,5 @@
    asignatura: "Epistemología aplicada a ciencias y tecnologías"
    responsable: "Dr. R. Follari"
    créditos: "5"
-   horas: "40"
+   horas: "50"
 ---
