@@ -3,5 +3,8 @@
    asignatura: "Evaluación de proyectos de inversión"
    responsable: "Dr. M. Lurve"
    créditos: "5"
-   horas: "50"
+   horas: "540"
 ---
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMjQ1MzcyMzBdfQ==
+-->
