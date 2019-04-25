@@ -5,11 +5,11 @@
     </header>
 
     {{ if ne .Type "page" }}
-    <main class="post__body markdown-body">
+    <main class="section markdown-body">
         {{ .Content }}
     </main>
     {{ else }}
-    <main class="post__body" style="margin-bottom: 3rem;">
+    <main class="section markdown-body" style="margin-bottom: 3rem;">
         {{ .Content }}
     </main>
     {{ end }}
