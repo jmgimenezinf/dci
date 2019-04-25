@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novedades on Doctorado en ciencias de la ingeniería</title>
-    <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/posts/</link>
-    <description>Recent content in Novedades on Doctorado en ciencias de la ingeniería</description>
+    <title>Developer on Doctorado en ciencias de la ingeniería</title>
+    <link>http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/developer/</link>
+    <description>Recent content in Developer on Doctorado en ciencias de la ingeniería</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Apr 2018 12:26:00 +0100</lastBuildDate>
     
-	<atom:link href="http://www.dinfo.ing.unp.edu.ar/sitios/dci/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.dinfo.ing.unp.edu.ar/sitios/dci/tags/developer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
