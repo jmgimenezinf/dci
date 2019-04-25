@@ -16,7 +16,11 @@ estos son los contenidos del cursos
 |--|--|
 |F1|F4|
 
+ - [ ] 
+ - [ ] List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTcyMjY3NSwtODQ4ODQ3MjgsMTg3MD
-AwMzk4LDE2MzQzNTA0NTIsNjU1NTE2MjYxXX0=
+eyJoaXN0b3J5IjpbMTg3MDgyNjA0OSwtMTg1NzIyNjc1LC04ND
+g4NDcyOCwxODcwMDAzOTgsMTYzNDM1MDQ1Miw2NTU1MTYyNjFd
+fQ==
 -->
