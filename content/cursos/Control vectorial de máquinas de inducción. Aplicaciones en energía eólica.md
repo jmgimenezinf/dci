@@ -3,8 +3,8 @@
    asignatura: "Control vectorial de máquinas de inducción. Aplicaciones en energía eólica"
    responsable: "Dr. D. Fernandez"
    créditos: "6"
-   horas: "640"
+   horas: "60"
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTU3NjQxXX0=
+eyJoaXN0b3J5IjpbLTIxMTYwNDA2OTFdfQ==
 -->
