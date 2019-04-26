@@ -11,9 +11,6 @@ estos son los contenidos del cursos
 
 > holaa
 
-|C1|C2|
-|--|--|
-|F1|F4|
 
  - [ ] item uno 
  - [ ] item dos
@@ -22,7 +19,7 @@ estos son los contenidos del cursos
 > `asdasd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0NTExNzIzLDI1Nzk0NzQ5OSwtMTg1Nz
-IyNjc1LC04NDg4NDcyOCwxODcwMDAzOTgsMTYzNDM1MDQ1Miw2
-NTU1MTYyNjFdfQ==
+eyJoaXN0b3J5IjpbMTk3Nzk4MDY5OSw1NjQ1MTE3MjMsMjU3OT
+Q3NDk5LC0xODU3MjI2NzUsLTg0ODg0NzI4LDE4NzAwMDM5OCwx
+NjM0MzUwNDUyLDY1NTUxNjI2MV19
 -->
