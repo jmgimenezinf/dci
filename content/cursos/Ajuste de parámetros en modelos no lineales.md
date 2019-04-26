@@ -4,7 +4,6 @@
    responsable: "Dr. A. Blasetti"
    créditos: "4"
    horas: "40"
-==== BASE ====
 ---
 # Hola
 estos son los contenidos del cursos
@@ -19,18 +18,11 @@ estos son los contenidos del cursos
  - [ ] item uno 
  - [ ] item dos
 ## Heading
-~~
- - 
 
 > `asdasd
-|ll|  |
-|--|--|
-|  |  |
-`
 
-~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3OTQ3NDk5LC0xODU3MjI2NzUsLTg0OD
-g0NzI4LDE4NzAwMDM5OCwxNjM0MzUwNDUyLDY1NTUxNjI2MV19
-
+eyJoaXN0b3J5IjpbNTY0NTExNzIzLDI1Nzk0NzQ5OSwtMTg1Nz
+IyNjc1LC04NDg4NDcyOCwxODcwMDAzOTgsMTYzNDM1MDQ1Miw2
+NTU1MTYyNjFdfQ==
 -->
