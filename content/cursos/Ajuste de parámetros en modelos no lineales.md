@@ -15,6 +15,7 @@ estos son los contenidos del cursos
 |---|---|
 | c | d |
 
+> comentario
 
  - [ ] item uno 
  - [ ] item dos
@@ -23,7 +24,7 @@ estos son los contenidos del cursos
 > `asdasd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MjA1NDAxLDIwODg0Nzg2Nyw1NjQ1MT
-E3MjMsMjU3OTQ3NDk5LC0xODU3MjI2NzUsLTg0ODg0NzI4LDE4
-NzAwMDM5OCwxNjM0MzUwNDUyLDY1NTUxNjI2MV19
+eyJoaXN0b3J5IjpbMTEzMTY2OTk4OCwyMDg4NDc4NjcsNTY0NT
+ExNzIzLDI1Nzk0NzQ5OSwtMTg1NzIyNjc1LC04NDg4NDcyOCwx
+ODcwMDAzOTgsMTYzNDM1MDQ1Miw2NTU1MTYyNjFdfQ==
 -->
