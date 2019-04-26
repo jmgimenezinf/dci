@@ -6,6 +6,11 @@
    horas: "40"
 ---
 # Curso del servidorcito
+
+| a | b |
+|---|---|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzE1MjI3NV19
+eyJoaXN0b3J5IjpbODk4NDg0MTI4LC0zNTcxNTIyNzVdfQ==
 -->
