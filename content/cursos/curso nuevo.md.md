@@ -5,7 +5,7 @@
    créditos: "4"
    horas: "40"
 ---
-# Curo
+# Curso del servidorcito
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDc5NzM4OF19
+eyJoaXN0b3J5IjpbLTM1NzE1MjI3NV19
 -->
