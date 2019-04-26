@@ -11,7 +11,7 @@ else
 	hugo
 	cd /var/www/html/sitios/dci
 	rm -rf *
-	mv /home/martin/sitios/dci/public/ /var/www/html/dci
+	mv /home/martin/sitios/dci/public /var/www/html/sitios/dci
 	rm -rf /home/martin/sitios/dci/public
 fi
 
