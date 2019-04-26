@@ -1,7 +1,7 @@
 ---
 title: "Nuevo sitio del doctorado en ciencias de la ingeniería"
 description: "The 6 best dish review twitter feeds to follow."
-date: 2018-04-24T12:26:00+01:00
+date: 2018-04-24T12:26:0012-19T22:32:19+01:00
 publishDate: 2018-12-19T22:21:42+01:00
 author: "Juan Martín Gimenez"
 images: []
@@ -22,3 +22,6 @@ The unconventional guide to chicken dishes. Why food networks beat peanut butter
 <img src="./images/dummy-image.jpg" alt="Dummy image with HTML.">
 
 14 ways chef uniforms can make you rich. An expert interview about healthy eating facts. 17 things that won't happen in fast food. The 16 worst songs about food stamps. 20 podcasts about thai restaurants. 12 ways easy meals can make you rich. Why restaurant weeks should be 1 of the 7 deadly sins. 15 ideas you can steal from safe food handling tips. Why mexican food is the new black. Why healthy cooking tips are the new black.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk4NzQxODE3NCwxMTAwMDA3MDhdfQ==
+-->
