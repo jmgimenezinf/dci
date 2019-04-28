@@ -21,10 +21,23 @@ estos son los contenidos del cursos
 ##  Gira me veras volver 2019
 
 1. dssdfsdfs
-2. 2 
+2. fdsfdfsdf
+3. dfsfsdfsd
+4. dfsdfsd
+5. fsd
+fsdf
+
+```sql
+select * from user
+```
+
+```javascript
+let a = 5 ;
+a = a +7 ;
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzQwMTUyNywzOTk5ODQ1MzQsNDQ0Mj
+eyJoaXN0b3J5IjpbLTg5MDA4OTUzMywzOTk5ODQ1MzQsNDQ0Mj
 Y4NzI4LDExMDkwMzM1MjYsLTk4MzM3ODk5NCwtMzUwOTI3OTU0
 LDE5NjExMTE3MzUsOTQzMDQyMzU5LC04NDc3MTcwMDEsMTc0MT
 A2NTk4LDExMzE2Njk5ODgsMjA4ODQ3ODY3LDU2NDUxMTcyMywy
