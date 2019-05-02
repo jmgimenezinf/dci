@@ -27,13 +27,13 @@ select * from user
 let a = 5 ;
 a = a +7 ;
 ```
-[enter link description here](www.dinfo.ing.unp.edu.ar)
+[pagina del departamento de informática](www.dinfo.ing.unp.edu.ar)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjI1NjAxNSwtMTU4OTY1MDI3NSw0MD
-Q2MTgzOTksMTE4MzkyMTIzNCwtODkwMDg5NTMzLDM5OTk4NDUz
-NCw0NDQyNjg3MjgsMTEwOTAzMzUyNiwtOTgzMzc4OTk0LC0zNT
-A5Mjc5NTQsMTk2MTExMTczNSw5NDMwNDIzNTksLTg0NzcxNzAw
-MSwxNzQxMDY1OTgsMTEzMTY2OTk4OCwyMDg4NDc4NjcsNTY0NT
-ExNzIzLDI1Nzk0NzQ5OSwtMTg1NzIyNjc1LC04NDg4NDcyOF19
-
+eyJoaXN0b3J5IjpbLTE4OTUwMjg3NTAsLTE1ODk2NTAyNzUsND
+A0NjE4Mzk5LDExODM5MjEyMzQsLTg5MDA4OTUzMywzOTk5ODQ1
+MzQsNDQ0MjY4NzI4LDExMDkwMzM1MjYsLTk4MzM3ODk5NCwtMz
+UwOTI3OTU0LDE5NjExMTE3MzUsOTQzMDQyMzU5LC04NDc3MTcw
+MDEsMTc0MTA2NTk4LDExMzE2Njk5ODgsMjA4ODQ3ODY3LDU2ND
+UxMTcyMywyNTc5NDc0OTksLTE4NTcyMjY3NSwtODQ4ODQ3Mjhd
+fQ==
 -->
