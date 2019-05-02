@@ -5,7 +5,7 @@
    créditos: "4"
    horas: "40"
 ---
-## Indice
+## titulo
 estos son los contenidos del cursos
 ![enter image description here](https://i1.wp.com/diariocronica.com.ar/wp-content/uploads/2018/11/borrador-autom%C3%A1tico-133.jpg?fit=1200,800&ssl=1)
 
@@ -29,11 +29,11 @@ a = a +7 ;
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzkyMTIzNCwtODkwMDg5NTMzLDM5OT
-k4NDUzNCw0NDQyNjg3MjgsMTEwOTAzMzUyNiwtOTgzMzc4OTk0
-LC0zNTA5Mjc5NTQsMTk2MTExMTczNSw5NDMwNDIzNTksLTg0Nz
-cxNzAwMSwxNzQxMDY1OTgsMTEzMTY2OTk4OCwyMDg4NDc4Njcs
-NTY0NTExNzIzLDI1Nzk0NzQ5OSwtMTg1NzIyNjc1LC04NDg4ND
-cyOCwxODcwMDAzOTgsMTYzNDM1MDQ1Miw2NTU1MTYyNjFdfQ==
+eyJoaXN0b3J5IjpbNDA0NjE4Mzk5LDExODM5MjEyMzQsLTg5MD
+A4OTUzMywzOTk5ODQ1MzQsNDQ0MjY4NzI4LDExMDkwMzM1MjYs
+LTk4MzM3ODk5NCwtMzUwOTI3OTU0LDE5NjExMTE3MzUsOTQzMD
+QyMzU5LC04NDc3MTcwMDEsMTc0MTA2NTk4LDExMzE2Njk5ODgs
+MjA4ODQ3ODY3LDU2NDUxMTcyMywyNTc5NDc0OTksLTE4NTcyMj
+Y3NSwtODQ4ODQ3MjgsMTg3MDAwMzk4LDE2MzQzNTA0NTJdfQ==
 
 -->
