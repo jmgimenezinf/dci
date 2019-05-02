@@ -27,9 +27,9 @@ select * from user
 let a = 5 ;
 a = a +7 ;
 ```
-[pagina del departamento de informática](www.dinfo.ing.unp.edu.ar)
+[pagina del departamento de informática](http://www.dinfo.ing.unp.edu.ar)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUwMjg3NTAsLTE1ODk2NTAyNzUsND
+eyJoaXN0b3J5IjpbLTEwNjU2MzcyMTYsLTE1ODk2NTAyNzUsND
 A0NjE4Mzk5LDExODM5MjEyMzQsLTg5MDA4OTUzMywzOTk5ODQ1
 MzQsNDQ0MjY4NzI4LDExMDkwMzM1MjYsLTk4MzM3ODk5NCwtMz
 UwOTI3OTU0LDE5NjExMTE3MzUsOTQzMDQyMzU5LC04NDc3MTcw
