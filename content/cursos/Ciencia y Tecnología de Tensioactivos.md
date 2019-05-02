@@ -5,10 +5,7 @@
    créditos: "4"
    horas: "40"
 ---
-|c1| c2 |
-|---|---|
-| 1 | 2 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI5OTc4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODg5MTUzMCwtMTcyMjk5NzgzNF19
 -->
