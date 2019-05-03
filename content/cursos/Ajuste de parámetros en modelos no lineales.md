@@ -5,7 +5,7 @@
    créditos: "4"
    horas: "40"
 ---
-## C
+## Cront
 estos son los contenidos del cursos
 ![enter image description here](https://i1.wp.com/diariocronica.com.ar/wp-content/uploads/2018/11/borrador-autom%C3%A1tico-133.jpg?fit=1200,800&ssl=1)
 
@@ -29,7 +29,7 @@ a = a +7 ;
 ```
 [pagina del departamento de informática](http://www.dinfo.ing.unp.edu.ar)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY5NjM4ODQsLTc5MTc1MjY3OSwtMT
+eyJoaXN0b3J5IjpbLTE2NzcwMDA0NjMsLTc5MTc1MjY3OSwtMT
 E3NTAxOTQwOCwtMTA2NTYzNzIxNiwtMTU4OTY1MDI3NSw0MDQ2
 MTgzOTksMTE4MzkyMTIzNCwtODkwMDg5NTMzLDM5OTk4NDUzNC
 w0NDQyNjg3MjgsMTEwOTAzMzUyNiwtOTgzMzc4OTk0LC0zNTA5
