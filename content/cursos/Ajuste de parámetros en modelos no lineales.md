@@ -5,7 +5,7 @@
    créditos: "4"
    horas: "40"
 ---
-# Cambios
+# Cambio
 estos son los contenidos del cursos
 ![enter image description here](https://i1.wp.com/diariocronica.com.ar/wp-content/uploads/2018/11/borrador-autom%C3%A1tico-133.jpg?fit=1200,800&ssl=1)
 
@@ -29,11 +29,11 @@ a = a +7 ;
 ```
 [pagina del departamento de informática](http://www.dinfo.ing.unp.edu.ar)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTQxNzQxNCwtMjEzMjQ0NTE1OCwtOD
-AxNDE3NDE0LDI4MDg2MTM4OCwtMTY3NzAwMDQ2MywtNzkxNzUy
-Njc5LC0xMTc1MDE5NDA4LC0xMDY1NjM3MjE2LC0xNTg5NjUwMj
-c1LDQwNDYxODM5OSwxMTgzOTIxMjM0LC04OTAwODk1MzMsMzk5
-OTg0NTM0LDQ0NDI2ODcyOCwxMTA5MDMzNTI2LC05ODMzNzg5OT
-QsLTM1MDkyNzk1NCwxOTYxMTExNzM1LDk0MzA0MjM1OSwtODQ3
-NzE3MDAxXX0=
+eyJoaXN0b3J5IjpbLTE3MDA2MzMzMTEsLTgwMTQxNzQxNCwtMj
+EzMjQ0NTE1OCwyODA4NjEzODgsLTE2NzcwMDA0NjMsLTc5MTc1
+MjY3OSwtMTE3NTAxOTQwOCwtMTA2NTYzNzIxNiwtMTU4OTY1MD
+I3NSw0MDQ2MTgzOTksMTE4MzkyMTIzNCwtODkwMDg5NTMzLDM5
+OTk4NDUzNCw0NDQyNjg3MjgsMTEwOTAzMzUyNiwtOTgzMzc4OT
+k0LC0zNTA5Mjc5NTQsMTk2MTExMTczNSw5NDMwNDIzNTksLTg0
+NzcxNzAwMV19
 -->
