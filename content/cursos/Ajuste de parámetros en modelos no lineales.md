@@ -28,9 +28,9 @@ let a = 5 ;
 a = a +7 ;
 ```
 [pagina del departamento de informática](http://www.dinfo.ing.unp.edu.ar)
-
+[pagina doctorado](http://rado.dinfo.ing.unp.edu.ar/dci/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1Mzc0ODkxLDEzMjYxNjc2MTMsLTc1ND
+eyJoaXN0b3J5IjpbNjIyODU5ODU3LDEzMjYxNjc2MTMsLTc1ND
 kxMTM4OCwtODAxNDE3NDE0LDk3OTc1MDUyMSwxNzIxMjQ2MjY3
 LC00NDM3MjQwMDQsLTgwMTQxNzQxNCwyMDc0NTA3NTE3LDI5Nz
 c3MTc0MiwtMTQ3ODk2NDAzMywxMDM5MjY3NDg4LC03Mzc0Njgy
