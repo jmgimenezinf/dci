@@ -21,7 +21,7 @@ else
 	cd /home/martin/sitios/dci | hugo
 	rm -rf /var/www/html/sitios/dci
 	mkdir /var/www/html/sitios/dci
-	mv /home/martin/sitios/dci/public/* /var/www/html/sitios/dci
+	mv /home/martin/sitios/dci/public/* /var/www/html/dci
 fi
 
 exit 0
