@@ -8,7 +8,7 @@
         {{ if ne .Type "page" }}
         {{ if and $.Site.Params.posts.showDate $.Site.Params.posts.showAuthor }}
         <p class="post__date date">
-            {{ dateFormat $.Site.Params.posts.dateFormat .Date }} By {{ $.Params.author }}.
+            {{$.Params.fecha}} Publicado Por {{ $.Params.author }}.
         </p>
         {{ else if $.Site.Params.posts.showDate }}
         <p class="post__date date">{{ dateFormat $.Site.Params.posts.dateFormat .Date }}</p>
